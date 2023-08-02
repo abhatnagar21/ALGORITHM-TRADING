@@ -1,0 +1,4 @@
+
+import yfinance as yf
+data=yf.download("MSFT",start="2023-08-01", end="2023-08-02",interval="5m")
+
