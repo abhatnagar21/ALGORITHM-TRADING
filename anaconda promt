@@ -1,0 +1,5 @@
+conda activate quanttrading
+conda deactivate quanttrading
+launching sypder ide
+using pandas 
+yfinance
